@@ -14,8 +14,7 @@ This is a simple To-Do List web application that helps users add, delete, and ma
 - Real-time task updates
 
 ## How to Run the Project
-1. Download or clone the repository
-2. Open the index.html file in any web browser
+1. Open the index.html file in any web browser
 
 ## Purpose
 This project is created for learning basic web development and JavaScript functionality.
