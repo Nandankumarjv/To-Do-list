@@ -11,7 +11,6 @@ This is a simple To-Do List web application that helps users add, delete, and ma
 - Add new tasks
 - Delete tasks
 - Simple and clean user interface
-- Real-time task updates
 
 ## How to Run the Project
 1. Open the index.html file in any web browser
